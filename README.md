@@ -73,7 +73,9 @@ Berikut adalah contoh penggunaan untuk mengekspor pesan dari grup Telegram:
 
 # Konfigurasi API Telegram
 api_id = '123456'
+
 api_hash = 'your_api_hash'
+
 phone = '+628123456789'
 
 # Lisensi
